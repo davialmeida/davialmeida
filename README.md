@@ -2,7 +2,7 @@
 
 - ⚡ I'm a Full Stack JavaScript Developer
 - 🔭 I’m currently working with [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) and [PHP](https://www.php.net/)
-- 🌱 I’m currently learning [NuxtJS](https://nuxtjs.org/) and [Adonis](https://adonisjs.com/)
+- 🌱 I’m currently learning NextJS
 - 💬 Ask me about anything
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="20" width="20">
